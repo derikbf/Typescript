@@ -9,11 +9,11 @@ enum Cores {
   rosa = 'rosa',
 }
 
-function escolhaACor(cor: Cores): void {
-  console.log(Cores[cor]);
-}
+// function escolhaACor(cor: Cores): void {
+//   console.log(Cores[cor]);
+// }
 
-escolhaACor(121231234)
+// escolhaACor(121231234)
 
 console.log('---- CORES')
 console.log(Cores)
