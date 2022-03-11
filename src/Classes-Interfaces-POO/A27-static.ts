@@ -25,3 +25,4 @@ const pessoa2 = Pessoa.criaPessoa('Maria', 'Miranda');
 console.log(pessoa1);
 console.log(pessoa2);
 pessoa1.metodoNormal();
+console.log(Pessoa.idadePadrao, Pessoa.cpfPadrao)
