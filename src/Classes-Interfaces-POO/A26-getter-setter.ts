@@ -1,9 +1,9 @@
 export class Pessoa {
   constructor(
-    public nome: string,
-    public sobrenome: string,
+    private nome: string,
+    private sobrenome: string,
     private idade: number,
-    protected _cpf: string,
+    private _cpf: string,
   ) {}
 
   set cpf(valor: string) {
