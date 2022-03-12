@@ -4,9 +4,9 @@
 
 # Visão Geral do Curso
 
-### Typescript - Instalação 1h
-### Typescript - Tipos Básicos - 4h
-### Typescript - Classes e Interfaces - POO - 4h
+### Typescript - Instalação 1h - ***concluido***
+### Typescript - Tipos Básicos - 4h  - ***concluido***
+### Typescript - Classes e Interfaces - POO - 4h - ***concluido***
 ### Typescript - Tipos Avançados - 1h
 ### Typescript - Generic Type - 2h
 ### Typescript - Decorators - 1h
