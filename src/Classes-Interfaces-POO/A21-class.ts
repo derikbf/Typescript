@@ -1,4 +1,3 @@
-import { Colaborad } from './../../.history/src/Classes-Interfaces-POO/A21-class_20220308202615';
 export class Empresa { // public readonly nome: string = 'Luiz';
   public readonly nome: string; // receberá o valor pelo constructor // não foi inicializado, só passamos as caracteristica dele
   private readonly colaboradores: Colaborador[] = []; // a class no typescript também funciona como um tipo
