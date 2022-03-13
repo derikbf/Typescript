@@ -13,9 +13,3 @@
 ### Typescript - Namespaces e Modules - 1h
 ### Typescript - Princípios SOLID (S.O.L.I.D) - 3H
 ### Typescript - Testes com Jest - 2h
-
-
-
-
-
-
