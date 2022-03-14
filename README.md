@@ -8,7 +8,7 @@
 ### Typescript - Tipos Básicos - 4h  - **concluído**
 ### Typescript - Classes e Interfaces - POO - 4h - **concluído**
 ### Typescript - Tipos Avançados - 1h - **concluído**
-### Typescript - Generic Type - 2h 
+### Typescript - Generic Type - 2h - **concluído**
 ### Typescript - Decorators - 1h
 ### Typescript - Namespaces e Modules - 1h
 ### Typescript - Princípios SOLID (S.O.L.I.D) - 3H
