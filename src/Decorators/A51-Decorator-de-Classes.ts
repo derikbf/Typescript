@@ -1,3 +1,4 @@
+@decorator
 export class Animal {
   constructor(
     public nome: string, 
@@ -22,6 +23,5 @@ function decorator<T extends new (...args: any[]) => any>(target: T): T {
   }
 }
 
-const AnimalDecorated = decorator(Animal);
-const animal = new AnimalDecorated('Luiz', 'roxo');
+const animal = new Animal('Pato', 'roxo');
 console.log(animal);
